@@ -21,4 +21,4 @@ index.html                  liste des apps
 
 ## Historique
 
-MacroDaily a encore ses pages dans le repo dédié `kevinabrioux/macrodaily-legal` (créé avant ce repo). Elles migreront ici lors d'une mise à jour de l'app (MacroDaily #292) ; l'ancien repo deviendra alors une redirection.
+MacroDaily a encore ses pages dans le repo dédié `kevinabrioux/macrodaily-legal` (créé avant ce repo). Elles migreront ici lors d'une mise à jour de l'app (MacroDaily #292) , puis l'ancien repo sera archivé.
